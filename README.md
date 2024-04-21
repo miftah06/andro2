@@ -42,7 +42,7 @@ pip install -r pip.txt
 
 3. Populate the `keyword.txt` file with the keywords you want to scan for.
 
-4. Run the `android.py` script:
+4. Run the `gugel.py` script:
 
 ```
 python gugel.py
