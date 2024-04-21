@@ -1,4 +1,4 @@
-Sure, here's how you can structure your `requirements.txt` and `README.md` files:
+Sure, here's how you can structure your `pip.txt` and `README.md` files:
 
 **requirements.txt:**
 ```
